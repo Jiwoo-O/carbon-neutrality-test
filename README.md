@@ -1,3 +1,3 @@
 
 # carbon-neutrality-test
-https://Jiwoo-O.github.io/carbon-neutrality-test/
+https://jiwoo-o.github.io/carbon-neutrality-test/
