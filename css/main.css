@@ -56,3 +56,15 @@ body {
     min-width: 55%;
   }
 }
+
+.carbon-test {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.carbon-test img {
+  max-width: 100%;
+  height: auto;
+  max-height: 800px;
+}
